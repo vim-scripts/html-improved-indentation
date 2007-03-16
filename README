@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1830
+
+This has been indenting HTML and JavaScript more properly that the standard html.vim.
+
+It depends on the syntax file for HTML and JavaScript.
